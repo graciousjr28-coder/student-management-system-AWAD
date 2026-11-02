@@ -41,3 +41,4 @@ class UserAccessController extends Controller implements HasMiddleware
         return back()->with('success', 'Role updated for ' . $user->name . '.');
     }
 }
+
