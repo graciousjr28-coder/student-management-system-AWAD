@@ -138,5 +138,3 @@ class StudentController extends Controller implements HasMiddleware
             ->with('success', 'Student deleted successfully.');
     }
 }
-
-
