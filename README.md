@@ -95,7 +95,7 @@ All sample accounts use the password `password`.
 ![Student registrations](docs/screenshots/student-registration.png)
 ![Access denied](docs/screenshots/403-error.png)
 
-## Group members
+## Group members.
 
 | Name | Registration number | Branches |
 | --- | --- | --- |
