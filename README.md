@@ -87,13 +87,13 @@ All sample accounts use the password `password`.
 
 ![Login](docs/screenshots/login-page.png)
 ![Admin dashboard](docs/screenshots/admin-dashboard.png)
-![Students list](docs/screenshots/03-students.png)
+![Students list](docs/screenshots/students.png)
 ![Add course](docs/screenshots/add-course.png)
 ![Registrations](docs/screenshots/registrations.png)
 ![Duplicate registration error](docs/screenshots/duplicate-error.png)
 ![Lecturer courses](docs/screenshots/lecturer-courses.png)
 ![Student registrations](docs/screenshots/student-registration.png)
-![Access denied](docs/screenshots/403-error.png)
+![Access denied](docs/screenshots/403 error.png)
 
 ## Group members
 
