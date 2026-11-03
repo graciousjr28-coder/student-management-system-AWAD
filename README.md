@@ -93,7 +93,7 @@ All sample accounts use the password `password`.
 ![Duplicate registration error](docs/screenshots/duplicate-error.png)
 ![Lecturer courses](docs/screenshots/lecturer-courses.png)
 ![Student registrations](docs/screenshots/student-registration.png)
-![Access denied](docs/screenshots/403 error.png)
+![Access denied](docs/screenshots/403-error.png)
 
 ## Group members
 
